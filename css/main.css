@@ -119,9 +119,10 @@ h6 {
 
 h1 {
     margin: 0;
-    font-size: 3.75em;
-    line-height: 1.2em;
-    margin-bottom: 0.4em
+    font-size: 3em;
+    line-height: 0.75em;
+    margin-bottom: 0.5em;
+    color: #3C6092;
 }
 
 
@@ -130,7 +131,7 @@ h1 {
 h2 {
     margin: 0;
     font-size: 3em;
-    line-height: 1em;
+    line-height: 0.75em;
     margin-bottom: 0.5em
 }
 
@@ -140,7 +141,7 @@ h2 {
 h3 {
     margin: 0;
     font-size: 2.25em;
-    line-height: 1.3333333333333333333333333333333em;
+    line-height: 1em;
     margin-bottom: 0.6667em
 }
 
@@ -160,7 +161,7 @@ h4 {
 h5 {
     margin: 0;
     font-size: 1.3125em;
-    line-height: 1.1428571428571428571428571428571em;
+    line-height: 1em;
     margin-bottom: 1.1428571428571428571428571428571em
 }
 
@@ -170,7 +171,7 @@ h5 {
 h6 {
     margin: 0;
     font-size: 1.125em;
-    line-height: 1.3333333333333333333333333333333em;
+    line-height: 1em;
     margin-bottom: 1.3333333333333333333333333333333em
 }
 
@@ -871,7 +872,7 @@ body {
     overflow: hidden;
     width: 100%;
     height: 99%;
-    background-color: rgba(231, 76, 60, .6);
+    background-color: rgba(60, 120, 231, 0.6);
     text-align: center;
     opacity: 0;
     filter: alpha(opacity=0);
