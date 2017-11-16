@@ -113,7 +113,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'larkeregular', sans-serif;
     color: #444;
 }
 
@@ -938,7 +938,7 @@ body {
     color: #fff;
     font-weight: bold;
     font-size: 13px;
-    font-family: 'Open Sans', sans-serif line-height: 1;
+    font-family: 'larkeregular', sans-serif line-height: 1;
     *display: inline;
     *zoom: 1;
     position: relative;
