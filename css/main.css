@@ -818,13 +818,13 @@ body {
 .item-box i.icon-envelope {}
 
 .item-box .item-data {
-    margin-top: 6px;
+    margin-top: 3px;
 }
 
 .item-box .item-data h3 {
     line-height: 1em;
     margin: 3px 0px 0px 0px;
-    font-size: 1em;
+    font-size: 1.25em;
 }
 
 .item-box .item-data p {
