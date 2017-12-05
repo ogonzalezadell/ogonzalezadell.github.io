@@ -985,6 +985,10 @@ body {
     cursor: pointer;
 }
 
+.label-theme {
+    background-color: #3C6092;
+}
+
 .label-default {
     background-color: #999999;
 }
